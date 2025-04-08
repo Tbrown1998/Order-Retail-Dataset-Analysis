@@ -1,14 +1,14 @@
-# Order-Retail-Dataset-Analysis
+# Retail Sales Data Analysis Project
 
 ![retail-store-management-process](https://github.com/user-attachments/assets/f822344a-55ff-42c5-86a2-a7feddd0572b)
 
-# Retail Sales Data Analysis Project
 
-![Retail Analytics](https://img.shields.io/badge/domain-retail%20analytics-blue) 
-![Tech Stack](https://img.shields.io/badge/tech%20stack-Python%20%7C%20SQL-orange)
 
 ## 📌 Overview
 An end-to-end data analysis project examining retail sales patterns using Python for ETL and SQL for analytical insights. The project identifies top-performing products, regional trends, and year-over-year growth metrics.
+
+![Retail Analytics](https://img.shields.io/badge/domain-retail%20analytics-blue) 
+![Tech Stack](https://img.shields.io/badge/tech%20stack-Python%20%7C%20SQL-orange)
 
 ## 🎯 Objectives
 - Perform exploratory data analysis on retail transactions
