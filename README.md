@@ -27,12 +27,11 @@ Downloaded from [kaggle Dataset Link](https://www.kaggle.com/datasets/ankitbansa
 - **Python**  
   - `pandas`, `numpy` – Data Cleaning, Data manipulation  
   - `sqlalchemy` – Data Exporting
-- **Jupyter Notebook** – For interactive development
 - **DBMS:** Microsoft SQL Server (MSSql)
 - **Query Language:** SQL (DDL, DML, Aggregations, Joins, Subqueries, Window Functions)
 - **Git & GitHub** – Version control and project showcase
+- **Jupyter Notebook** – For interactive development
 - ![Tech Stack](https://img.shields.io/badge/tech%20stack-Python%20%7C%20SQL-orange) ![MS SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-2.0.0-150458?logo=pandas&logoColor=white)
-- 
 
 ## Data Processing Pipeline
 
@@ -104,6 +103,7 @@ conn=engine.connect()
 #load the data into sql server using append option
 df.to_sql('df_orders', con=conn , index=False, if_exists = 'append')
 ```
+![Screenshot (120)](https://github.com/user-attachments/assets/315b52f6-0db0-49c8-8b5e-34465b759d6a)
 
 --- 
 ## 🧮 SQL ANALYSIS
@@ -183,10 +183,8 @@ SELECT TOP 1 *,
 FROM cte2
 ORDER BY growth DESC;
 ```
-![Screenshot (120)](https://github.com/user-attachments/assets/315b52f6-0db0-49c8-8b5e-34465b759d6a)
 
 ![Screenshot (121)](https://github.com/user-attachments/assets/e0dc5449-53b3-4293-840d-1646e5f090c7)
-
 
 ---
 
