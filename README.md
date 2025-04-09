@@ -17,7 +17,6 @@ An end-to-end data analysis project examining retail sales patterns using Python
 - Generate actionable business recommendations
 
 ## 📂 Dataset
-Downloaded from [kaggle Dataset Link](https://www.kaggle.com/datasets/ankitbansal06/retail-orders)
 - `orders.csv` containing:
 - 9,994 transactions (Jan 2022 - Aug 2023)
 - Key dimensions: Product, Category, Region
